@@ -80,6 +80,7 @@
 - 幽梦影 [youmengying](./youmengying)
 - 四书五经 [sishuwujing](./sishuwujing)
 - 蒙學 [mengxue](./mengxue)
+- 纳兰性德诗集 [nalanxingde](./nalanxingde)
 
 
 ## 贡献
@@ -109,6 +110,7 @@
 <details>
   <summary>案例展示</summary>
   
+- [PeoTik 诗词wordle](https://peotik.com/) 诗词解谜小游戏
 - [中文诗歌主页](https://shici.store)是一个基于浏览器的诗词网站，包含唐诗三百首、宋词三百首等文集。
 - [animalize](https://github.com/animalize) **/** [QuanTangshi](https://github.com/animalize/QuanTangshi)  *离线全唐诗 Android*
 - [justdark](https://github.com/justdark) **/** [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen)  *a char-RNN based on pytorch*
